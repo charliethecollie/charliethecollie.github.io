@@ -21,6 +21,10 @@ table.titles{
 	border-radius: 10px 10px 10px 10px;
 	font-size: 25;
 }
+div {
+  resize: both;
+  overflow: auto;
+}
 a.link{
 	color: C6C1BA;
 }
